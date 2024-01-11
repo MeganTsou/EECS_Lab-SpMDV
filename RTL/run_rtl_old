@@ -1,0 +1,6 @@
+xrun -f rtl.f \
+-clean \
++define+tb0 \
++no_warning \
++notimingcheck \
++access+r\

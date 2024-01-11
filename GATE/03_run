@@ -1,0 +1,2 @@
+vcs -full64 +v2k -R -f rtl_03.f -debug_access +ncmaxdelays  +access+r +define+SDF+tb0
+# xrun -f rtl_03.f +ncmaxdelays  +access+r +define+SDF+tb0

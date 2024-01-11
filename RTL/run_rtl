@@ -1,0 +1,3 @@
+vcs -full64 +v2k -R -f rtl.f -debug_access +define+tb0 +no_warning +notimingcheck +access+r
+# +access+r
+# +vcs+fsdbon
