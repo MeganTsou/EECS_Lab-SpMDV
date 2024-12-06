@@ -1,1 +1,1 @@
-This repository implements Sparse Matrix Dense Vector (SpMDV) multiplication using the Bank-Balanced Sparsity (BBS) method for efficient computation. It provides modules for RTL design, simulation, synthesis, and power analysis.
+Implements Sparse Matrix Dense Vector (SpMDV) multiplication using the Bank-Balanced Sparsity (BBS) method for efficient computation. It provides modules for RTL design, simulation, synthesis, and power analysis.
